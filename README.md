@@ -31,6 +31,7 @@
 [![Blog](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)]()
 [![Blog](https://img.shields.io/badge/React-239120?style=for-the-badge&logo=react&logoColor=white)]()
 [![Blog](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)]()
+[![Blog](https://img.shields.io/badge/Tailwindcss-61DAFB?style=for-the-badge&logo=tailwindcss&logoColor=black)]()
 
 <br>
 Apaixonado por tecnologia, ciência e educação e por mudar a vida das pessoas com a Tecnologia.
