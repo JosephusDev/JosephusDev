@@ -6,7 +6,7 @@
 
 [![Blog](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@josephusdev123)
 [![Blog](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://web.facebook.com/profile.php?id=100090554739048)
-[![Blog](https://img.shields.io/badge/Linkedin-100000?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/josephusdev/)
+[![Blog](https://img.shields.io/badge/Linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/josephusdev/)
 
 <div style="display: inline_block"><br>
 
