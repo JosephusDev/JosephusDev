@@ -15,7 +15,6 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=josephusdev&layout=compact&theme=radical)
 
-[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=josephusdev)](https://github.com/josephusdev/github-readme-stats&layout=compact&theme=radical)
 
 ### Tecnologias que uso no meu dia a dia
 
