@@ -6,7 +6,7 @@
 
 [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@josephusdeveloper)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/josephusdev/)
-[![Portfolio](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/josephusdev/](https://portfolio-alpha-three-79.vercel.app/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-0A66C2?style=for-the-badge&logo=portfolio&logoColor=white)](https://portfolio-alpha-three-79.vercel.app/)
 
 <div style="display: inline_block"><br>
 
