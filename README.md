@@ -16,8 +16,6 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=josephusdev&layout=compact&theme=radical)
 
-![Visitantes](https://visitor-badge.glitch.me/badge?page_id=josephusdev.josephusdev)
-
 ### Tecnologias que uso no meu dia a dia
 
 <div style="display: inline_block"><br>
